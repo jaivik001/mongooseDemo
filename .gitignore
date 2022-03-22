@@ -1,0 +1,21 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+/.config
+/node_modules
+/configs/masterConfig.json
+.env
+# phpstorm project files
+.idea
+/backup
+access.log
+package-lock.json
+/uploads
+combined.log
+insider
+report.html
+report.json
+style.css
+Report-Node.zip
+ecosystem.config.js
+.config
+
